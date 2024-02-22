@@ -1,0 +1,14 @@
+defaultPortal: Juventus
+portals:
+  - name: Juventus
+    portalId: 144139562
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CK-P9LnaMRIRAAkAQAAA4C0DQAJYAgEAAMgYqsrdRCDgtMQeKO7pDDIU2ctF3KmSglQobDzFnwCSln8Nu5c6QQAAAEEAAAB4AAAAAAAAAAAAgAAAAAAAAAAAwAcAjvAxPGAQBgBEAGBA_BgGABAgAwAAAAAAPAIDAAAAAAAAAAwEQhQMVeXXlj-kRiN0tDVRDUON3lq1MUoDZXUxUgBaAA
+        expiresAt: '2024-02-14T10:50:11.269Z'
+    accountType: STANDARD
+    personalAccessKey: >-
+      CiRldTEtZmQ1Yy02OGRkLTRlYjktYWJjOS01YWNmMWJiY2FjYjUQqsrdRBjgtMQeKhkABeaRgp8G79PZrnunPp_YBgKXvT_hutGoSgNldTE
+    sandboxAccountType: null
